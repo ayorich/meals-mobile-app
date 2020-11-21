@@ -1,0 +1,10 @@
++ react-native-gesture-handler@1.7.0
++ react-native-screens@2.10.1
++ @react-native-community/masked-view@0.1.10
+added 44 packages from 21 contributors, removed 189 packages, updated 2 packages and audited 892 packages in 23.934s
+
+44 packages are looking for funding
+  run `npm fund` for details
+
+found 9 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
